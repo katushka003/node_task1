@@ -1,0 +1,10 @@
+.form{
+    background-color: rgba(225, 200, 249, 0.63);
+    border: solid 10px;
+    border-radius: 10px;
+    border-color: blueviolet;
+}
+body {
+    background-color: rgb(237, 224, 251);
+    font-size: 1.5rem;
+}
